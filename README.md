@@ -1,5 +1,12 @@
+## certator TODO
+* parse requests via some lib?
+* when download file by given url patten, do background multipart cache of file (i.e. for videos)
+
+## original readme >>>
+
 WARP
 ====
+
 
 Simple http transparent proxy made in python 2.7.3 (can be run with pypy)
 
